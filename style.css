@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@700&family=Space+Grotesk:wght@300;400;500;600&display=swap');
+/* font-family: 'Pacifico', cursive;
+font-family: 'Space Grotesk', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Pacifico&family=Poppins:wght@700&family=Space+Grotesk:wght@300;400;500;600&display=swap');
+
+/* font-family: 'Pacifico', cursive;
+font-family: 'Space Grotesk', sans-serif; */
+
+*{
+margin: 0;
+padding: 0;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  margin: 3% 4%;
+  color: hsl(321, 100%, 78%);
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+}
+
+.try-button{
+  border: 1px solid hsl(321, 100%, 78%);
+  text-align: center;
+  margin: 2%;
+  padding: 0.6% 2%;
+  border-radius: 30px;
+}
