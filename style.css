@@ -28,3 +28,40 @@ header{
   padding: 0.6% 2%;
   border-radius: 30px;
 }
+
+/* container - heading*/
+
+.container-heading{
+  font-family:'Space Grotesk', sans-serif;
+  font-weight: 700;
+  text-align: center;
+  margin: 8% 1% 3%;
+  /* padding: 2% 20%; */
+}
+
+.container-paragraph{
+  text-align: center;
+
+}
+
+.container-button{
+  background-color: hsl(320deg 93% 65%);
+  display: flex;
+  margin:2% 40%;
+  width: 15%;
+ align-items: center;
+ justify-content: center;
+ text-align: center;
+  padding: 1% 3%;
+  border-radius: 30px;
+}
+
+a{
+ text-decoration: none;
+ color: #f8f9ff;
+ font-family:'Space Grotesk', sans-serif;
+}
+
+#screen-mockup{
+  width: 40%;
+}
