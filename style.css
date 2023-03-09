@@ -31,6 +31,9 @@ header{
 
 /* container - heading*/
 
+.container{
+  margin: 6%;
+}
 .container-heading{
   font-family:'Space Grotesk', sans-serif;
   font-weight: 700;
@@ -63,5 +66,10 @@ a{
 }
 
 #screen-mockup{
-  width: 40%;
+  width: 55%;
+  margin: 5% 23%;
+}
+
+.big-top{
+ 
 }
