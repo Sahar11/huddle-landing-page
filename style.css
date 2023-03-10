@@ -70,6 +70,8 @@ a{
   margin: 5% 23%;
 }
 
-.big-top{
- 
+.container-stats{
+margin: 6% 6%;
+column-count: 2;
+
 }
