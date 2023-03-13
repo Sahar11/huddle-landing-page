@@ -10,6 +10,7 @@ font-family: 'Space Grotesk', sans-serif; */
 *{
 margin: 0;
 padding: 0;
+font-family:'Space Grotesk', sans-serif;
 }
 
 header{
@@ -66,12 +67,29 @@ a{
 }
 
 #screen-mockup{
-  width: 55%;
-  margin: 5% 23%;
+  width: 75%;
+  margin: 5% 15%;
 }
 
 .container-stats{
-margin: 6% 9%;
+margin: 6% 6%;
 column-count: 2;
+}
 
+.left-stat{
+  margin-left: 40%;
+  font-size: 3em;
+  font-weight:bold;
+}
+.right-stat{
+  margin-left: 40%;
+  font-size: 3em;
+  font-weight:bold;
+}
+.left-stat-text{
+  margin-left: 40%;
+}
+
+.right-stat-text{
+  margin-left: 40%; 
 }
