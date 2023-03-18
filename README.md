@@ -1,4 +1,4 @@
-![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
+![Header/intro section for the Huddle landing page](./design/desktop-preview.jpg)
 
 # Frontend Mentor - Huddle landing page with curved sections solution
 
