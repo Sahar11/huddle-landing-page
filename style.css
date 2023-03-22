@@ -209,3 +209,26 @@ footer{
   background-color: #ffffff;
 }
 /*  Media querie */
+
+/*  The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px) */
+
+@media screen and (min-width:  1440px) {
+  .container{
+
+  }
+}
+
+@media screen and (min-width: 375px) {
+  .container{
+
+    /* width:840px;
+    height: 371px; */
+
+    height:840px;
+    width: 740px;
+
+  }
+}
